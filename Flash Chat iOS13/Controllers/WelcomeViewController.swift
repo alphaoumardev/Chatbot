@@ -6,7 +6,8 @@ class WelcomeViewController: UIViewController
 
     @IBOutlet weak var titleLabel: UILabel!
     
-    override func viewDidLoad() {
+    override func viewDidLoad()
+    {
         super.viewDidLoad()
 
        
